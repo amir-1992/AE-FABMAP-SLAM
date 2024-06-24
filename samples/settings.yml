@@ -4,7 +4,7 @@
 
 #---------------------------------------------------------------------------
 
-FilePaths
+FilePaths:
    #The training data video should be of disjoint, non-overlapping scenes
    #and should not visit the same location more than once
 
