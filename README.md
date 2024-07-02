@@ -1,9 +1,9 @@
 The following fiels are added and modified.
 
-Untitled.ipynp
-prog.cpp
-openFABMAPcli.cpp
-settings.yml
+Untitled.ipynp \newline
+prog.cpp \newline
+openFABMAPcli.cpp \newline
+settings.yml \newline
 
 # openFABMAP <img width="100" alt="openfabmap" src="https://user-images.githubusercontent.com/9265237/52215895-5272bc80-2895-11e9-8af5-0a9fca32cf42.PNG">
 
