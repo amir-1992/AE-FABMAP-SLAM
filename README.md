@@ -20,18 +20,15 @@ OpenFABMAP [Glover et. al. 2012](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arn
 
 
 
-# This Reaserch is heavily based on 
-# Glover et. al. 2012, 
-# St. Lucia Multiple Times of Day and Other Datasets
-and
-# Cummins & Newman 2008
+### This Reaserch is heavily based on 
+#### Glover et. al. 2012,  St. Lucia Multiple Times of Day and Other Datasets Cummins & Newman 2008
 
 By applying modification to the following files We have created our own version of the algorithm:
 
-# Untitled.ipynb, 
-# prog.cpp,
-# openFABMAPcli.cpp, and
-# settings.yml 
+### Untitled.ipynb, 
+### prog.cpp,
+### openFABMAPcli.cpp, and
+### settings.yml 
 
  If you find it usefull please cite it in the following form.
 
