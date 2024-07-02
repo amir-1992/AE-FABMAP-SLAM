@@ -1,6 +1,6 @@
 The following fiels are added and modified.
 
-Untitled.ipynp, 
+Untitled.ipynb, 
 prog.cpp,
 openFABMAPcli.cpp, and
 settings.yml 
